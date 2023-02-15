@@ -1,6 +1,4 @@
-# proxeiro
-
-## Startup Funding Approval
+# Startup Funding Approval
 Bibary classification problem in which, based on the values of thirty two different attributes/features, we classify Startups Funding Request into one of two categories (0-Approved, 1-Rejected). The following table contains the aforementioned features as well as a basic description for each one of them.
 
 ### About Dataset
