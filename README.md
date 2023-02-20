@@ -44,7 +44,7 @@ The attributes have the following meaning:
 
 
 ## Basic Code Information
-The code has been developped in **python 3.8.2**. To run the code, the requirements.txt file must be used in order to load all the needed modules/packages. Then, through a random IDE (i.e spyder), we can run the code by opening and running the main.py file which is located inside the src folder.
+The code has been developped in **python 3.9.13**. To run the code, the requirements.txt file must be used in order to load all the needed modules/packages. Then, through Jupyter Notebook and Pycharm IDE, we can run the code by opening and running the main.py file which is located inside the src folder.
 
 ## Repository Structure
 The repository structure is simple and self-explanatory. It containts the following folders and files:
