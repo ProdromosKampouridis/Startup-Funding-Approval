@@ -77,5 +77,3 @@ The repository structure is simple and self-explanatory. It containts the follow
 | Files/Folders         |  Description                         |              
 |-----------------------|--------------------------------------|
 | Funding_Approval.ipynb| Main file of our source code |
-|
-
