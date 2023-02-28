@@ -79,12 +79,3 @@ The repository structure is simple and self-explanatory. It containts the follow
 | Funding_Approval.ipynb| Main file of our source code |
 |
 
-
-## Results
-Below we can see the results some of our trained models. More details can be found in the report.
-| Classifier        | Accuracy | Precision | Recall | f1    |
-|-------------------|----------|-----------|--------|-------|
-| Decision Trees    | 0.656    | 0.480     | 0.530  | 0.504 |
-| Random Forest     | 0.773    | 0.775     | 0.441  | 0.562 |
-| KNN	              | 0.690    | 0.529     | 0.549  | 0.539 |
-| Voting Classifier | 0.820    | 1.000     | 0.470  | 0.640 |
