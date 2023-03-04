@@ -77,3 +77,10 @@ The repository structure is simple and self-explanatory. It containts the follow
 | Files/Folders         |  Description                         |              
 |-----------------------|--------------------------------------|
 | Funding_Approval.ipynb| Main file of our source code |
+
+## Previous Classification Task
+**Previous Task folder** - contains the following files and folders
+| Files/Folders         |  Description                         |              
+|-----------------------|--------------------------------------|
+| kidneyfailure.ipynb| Main file of our source code |
+| data.csv| dataset |
